@@ -1,10 +1,10 @@
-# 💰 Smart Expenses Tracker
+# Expenses Tracker
 
 A modern, beautiful Flutter application for tracking personal expenses with an elegant purple-to-pink gradient design.
 
-![Smart Expenses Tracker](https://img.shields.io/badge/Flutter-3.0+-blue?style=for-the-badge&logo=flutter)
+![Expenses Tracker](https://img.shields.io/badge/Flutter-3.0+-blue?style=for-the-badge&logo=flutter)
 ![Platform](https://img.shields.io/badge/Platform-Mobile%20%7C%20Desktop-green?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
+
 
 ## ✨ Features
 
