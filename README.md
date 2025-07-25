@@ -49,8 +49,8 @@ A modern, beautiful Flutter application for tracking personal expenses with an e
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/smart-expenses-tracker.git
-   cd smart-expenses-tracker
+   git clone https://github.com/bakarekeandrew/budget_tracker-app.git
+   cd budget_tracker_app
    ```
 
 2. **Install dependencies**
